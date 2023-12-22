@@ -7,7 +7,7 @@
 </p><br/>
 
 <p align="center">
-🌱 I’m currently learning to do great things
+🌱 I am learning to do great things
 </p>
 
 <div align="center">
