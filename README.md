@@ -1,5 +1,5 @@
 <h3 align="center">Hi there 👋, Gabriel here!</h3>
-<p align="center">Currently Computer Science student at <a href="https://cic.unb.br">University of Brasilia</a></p>
+<p align="center">Computer Science student at <a href="https://cic.unb.br">University of Brasilia</a></p>
 
 <p align="center">
   <img alt="Gmail Badge" src="https://img.shields.io/badge/-gabrielftnl21@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:gabrielftnl21@gmail.com">
@@ -7,7 +7,7 @@
 </p><br/>
 
 <p align="center">
-🌱 I am learning to do great things
+🌱 I'm currently learning to do great things
 </p>
 
 <div align="center">
