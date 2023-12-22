@@ -1,13 +1,13 @@
-<h1 align="center">Hi there 👋, Gabriel here!</h1>
-<h3 align="center">Computer Science student at <a href="https://cic.unb.br">University of Brasilia</a></h3>
-
-<p align="center">
-🌱 I’m currently learning to do great things
-</p><br/>
+<h3 align="center">Hi there 👋, Gabriel here!</h3>
+<p align="center">Currently Computer Science student at <a href="https://cic.unb.br">University of Brasilia</a></p>
 
 <p align="center">
   <img alt="Gmail Badge" src="https://img.shields.io/badge/-gabrielftnl21@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:gabrielftnl21@gmail.com">
   <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gabriel-fontenele/">
+</p><br/>
+
+<p align="center">
+🌱 I’m currently learning to do great things
 </p>
 
 <div align="center">
